@@ -1,0 +1,15 @@
+{
+  "name": "akun-dice",
+  "version": "1.0.0",
+  "description": "Akun's dice engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fiddlekins/akun-dice.git"
+  },
+  "author": "Fiddlekins",
+  "license": "ISC"
+}
