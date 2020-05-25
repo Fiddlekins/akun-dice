@@ -2,7 +2,7 @@
   "name": "akun-dice",
   "version": "1.0.0",
   "description": "Akun's dice engine",
-  "main": "index.js",
+  "main": "evaluate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
